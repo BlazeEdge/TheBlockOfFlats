@@ -12,13 +12,4 @@ You need to get the *skint* by writing the `get-skint` command, and for the obta
 * `build-house`
 * `houses`
 
-### To install, you need to run the following commands:
-
-* `$ sudo apt install python`
-* `$ sudo apt install git`
-* `$ git clone https://github.com/BlazeEdge/TheBlockOfFlats.git`
-* `$ cd TheBlockOfFlats`
-* `$ pip install -r requirements.txt`
-* `$ python main.py`
-
 <sub>blaze_edge (developer)</sub>
